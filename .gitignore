@@ -24,7 +24,8 @@ bin/
 
 ### VS Code ###
 .vscode/
-notes/
 
 ### Mac OS ###
 .DS_Store
+
+notes/
