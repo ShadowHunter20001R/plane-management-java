@@ -16,6 +16,7 @@ public class PlaneManagement {
     // arrangement, initialized with zeros
     // indicating available seats
     @SuppressWarnings("unused")
+    private static String Name;
     private static double total_sales_amount = 0; // Total sales amount, initially set to zero
     private static final Ticket[][] sold_tickets = new Ticket[ROWS_A_D + ROWS_B_C][SEATS_PER_ROW_A_D]; // Array to store
                                                                                                        // sold tickets
