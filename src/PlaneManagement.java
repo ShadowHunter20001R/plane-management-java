@@ -15,12 +15,7 @@ public class PlaneManagement {
     private static final int[][] seats = new int[TOTAL_ROWS][TOTAL_COLS]; // Array representing the plane's seating
     // arrangement, initialized with zeros
     // indicating available seats
-<<<<<<< HEAD
     @SuppressWarnings("unused")
-    private static String Name;
-=======
-
->>>>>>> testbranch
     private static double total_sales_amount = 0; // Total sales amount, initially set to zero
     private static final Ticket[][] sold_tickets = new Ticket[ROWS_A_D + ROWS_B_C][SEATS_PER_ROW_A_D]; // Array to store
                                                                                                        // sold tickets
