@@ -44,10 +44,6 @@ This Java application allows users to manage seating arrangements and ticket sal
 - Contains attributes such as row, seat number, price, and associated person.
 - Provides methods to retrieve ticket information and save ticket details to a file.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository, make your changes, and submit a pull request.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
